@@ -1,0 +1,30 @@
+{
+  "name": "mRNA 길잡이 · 백신 이해 가이드",
+  "short_name": "mRNA 노트",
+  "description": "책 《mRNA 혁명》의 설명으로 mRNA 백신과 면역을 이해하는 가이드",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f4fa",
+  "theme_color": "#2e1f5e",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
