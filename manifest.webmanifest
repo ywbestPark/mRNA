@@ -1,7 +1,7 @@
 {
-  "name": "mRNA 길잡이 · 백신 이해 가이드",
-  "short_name": "mRNA 노트",
-  "description": "책 《mRNA 혁명》의 설명으로 mRNA 백신과 면역을 이해하는 가이드",
+  "name": "mRNA 과학노트 · 청소년 과학과 진로",
+  "short_name": "과학노트",
+  "description": "책 《mRNA 혁명》으로 과학 기초를 익히고 인물 이야기에서 진로를 생각해 보는 청소년용 가이드",
   "lang": "ko",
   "start_url": "./",
   "scope": "./",
